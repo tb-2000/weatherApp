@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ignore secrets folder, which may contain sensitive information such as API keys, passwords, or other credentials
+secrets/
