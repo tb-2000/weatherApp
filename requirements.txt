@@ -1,2 +1,5 @@
 django
 django-azure-auth
+django_azure_auth.decorators
+dotenv
+psycopg2-binary
